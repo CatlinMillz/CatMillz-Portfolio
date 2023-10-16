@@ -130,32 +130,25 @@ h2 {
 .one {
         float: left;
         width: 50%;
-        height: 25%;
         position: relative;
         border: 5px solid var(--img-border);
-        border-width: 50%;
     }
  .two {
         float: right;
         width: 50%;
-        height: 25%;
         position: relative;
         border: 5px solid var(--img-border);
-        border-width: 50%;
     }
 .three {
         float: left;
         width: 50%;
-        height: 25%;
         position: relative;
         margin: 125px auto;
         border: 5px solid var(--img-border);
-        border-width: 50%;
     }
  .four {
         float: right;
         width: 50%;
-        height: 25%;
         position: relative;
         margin: 125px auto;
         border: 5px solid var(--img-border);
